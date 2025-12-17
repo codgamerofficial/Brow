@@ -1,0 +1,7 @@
+{
+  "name": "Brow - Generative Browser",
+  "description": "A futuristic, AI-first web browser concept that browses information rather than just pages. Features a glassmorphic UI, integrated AI search grounding, and smart tab management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
